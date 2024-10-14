@@ -83,7 +83,7 @@ In terms of behavior,
 
 ##### 4. What types of segments exist within the bank's customers?
 
-Looking at the Age distribution, the bank customers tend to be around 30-40. Skewed to the left, meaning less and less customers as age increased.
+Looking at the Age distribution, the bank customers tend to be around 30-40. Skewed to the left, meaning less number of customers as age increases.
 
 ![alt text](https://github.com/madisontagg/Bank-Churn-Rate/blob/main/AgeSegment.png)
 
